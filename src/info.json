@@ -1,0 +1,29 @@
+{
+    "intro": "Welcome to my homepage! My name is Ruonan. I used to be an auditor and worked in a public accounting firm. Due to some personal reasons, I moved to Seattle area and decide to become a programmer in the near future. I came to Seattle this summer and since the plane landed, this city has become my favorite place in the States. Nowadays, the rain has come, I hope the winter will not be as miserable as I was told. Knowing more about me, please click on the links or reach me out through the email on the bottom.",
+    "github": "https://github.com/rnyang-16",
+    "linkedin":
+      "https://www.linkedin.com/in/ruonan-yang-381029107/",
+    "resume": "assets/Resume-Ruonan.pdf",
+    "email": "joyceyang0730@gmail.com",
+    "phone": "412-897-4086",
+    "projects": [
+      {
+        "name": "Weekends Planner",
+        "home_url": "https://rnyang-16.github.io/Project-1-Group-5/",
+        "github_url": "https://github.com/rnyang-16/Project-1-Group-5",
+        "img_url": "assets/images/weekendPlanner_screenshot.jpg"
+      },
+      {
+        "name": "Weather Dashboard",
+        "home_url": "https://rnyang-16.github.io/hw-1-22/",
+        "github_url": "https://github.com/rnyang-16/hw-1-22",
+        "img_url": "assets/images/weatherDashboard_screenshot.jpg"
+      },
+      {
+        "name": "Bootleg Cooking",
+        "home_url": "https://arcane-escarpment-28279.herokuapp.com/index",
+        "github_url": "https://github.com/rnyang-16/Project_2",
+        "img_url": "assets/images/bootlegCooking_screenshot.jpg"
+      }
+    ]
+}
